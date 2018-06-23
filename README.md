@@ -1,6 +1,6 @@
 # Data Analysis and Hypothesis Testing with Pandas
 
-The notebooks are the assignments I did for the [Data Science course by University of Michigan on Coursera] (https://www.coursera.org/learn/python-data-analysis). 
+The notebooks are the assignments I did for the [Data Science course by University of Michigan on Coursera](https://www.coursera.org/learn/python-data-analysis). 
 
 *Assignment 3* is focused on data cleaning and manipulation for analysis. 
 
